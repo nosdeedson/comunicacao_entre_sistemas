@@ -12,7 +12,7 @@
 # 
 # 
 # SQLITE
-# criar sqlilite db
-# sqlilite3 db.sqlilite
+# criar sqlite db
+# sqlilite3 db.sqlite
 # criar table 
 # create table categories (id string, name string, description string);
